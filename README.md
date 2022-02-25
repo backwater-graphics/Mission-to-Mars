@@ -39,7 +39,7 @@ To wrap up this project we needed to also make this webpage mobile-responsive an
 
 1.	Changed the button color to Danger, which is red to blend with the background.
 2.	Added a tooltip that says Click Me!, when the user hoovers over the Scrape button.
-3.	
+
 ![Final Changes]( https://github.com/backwater-graphics/Mission-to-Mars/blob/main/images/changes.jpg)
 ---
 
